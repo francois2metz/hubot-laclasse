@@ -5,6 +5,7 @@ If like me you love [La Classe Américaine](http://cyclim.se/), you probably quo
 This hubot script do exactly that!
 
 > francois: http://cyclim.se/script.html#0:28:47
+>
 > hubot:  George — Si tu veux me parler, envoie-moi un… fax !
 
 ## Install
