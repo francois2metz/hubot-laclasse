@@ -11,7 +11,21 @@ This hubot script do exactly that!
 
 Add hubot-laclasse to your *package.json*.
 
+```javascript
+{
+  "dependencies": {
+    ....
+    "hubot-laclasse": "",
+    ...
+  }
+}
+```
+
 Then add hubot-laclasse to  *external_scripts.json*.
+
+```javascript
+[..., "hubot-laclasse", ...]
+```
 
 ## License
 
