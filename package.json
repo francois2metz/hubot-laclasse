@@ -1,0 +1,11 @@
+{
+  "name": "hubot-laclasse",
+  "version": "0.0.1",
+  "description": "Paste quotes from La Classe Américaine",
+  "main": "./lib/index.coffee",
+  "author": "François de Metz",
+  "license": "BSD",
+  "dependencies": {
+    "jsdom": ""
+  }
+}
