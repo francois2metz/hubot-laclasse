@@ -2,7 +2,7 @@
 #  Fetch a quote from La classe américaine
 #
 # Dependencies:
-#   "jsdom" : ""
+#   None
 #
 # Commands:
 #   None
